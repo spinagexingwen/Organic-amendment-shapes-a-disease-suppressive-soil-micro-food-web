@@ -1,0 +1,17 @@
+id	label	genus	group
+A1		s__Glomus_Yamato12_Glo2	AMF
+A7		s__Glomus_mosseae	AMF
+A8		s__Glomus_Glo2	AMF
+A11		s__Glomus_deserticola	AMF
+A14		s__Septoglomus_viscosum	AMF
+A20		s__Septoglomus_jasnowskae	AMF
+A23		s__Glomus_sp.	AMF
+A24		s__Glomus_Torrecillas12a_Glomus_G6	AMF
+HN1		Coslenchus	HN
+HN2		Helicotylenchus	HN
+HN4		Paratylenchus	HN
+HN5		Tylenchus	HN
+HN7		Basiria	HN
+HN8		Boleodorus	HN
+HN10		Rotylenchus	HN
+HN12		Nagelus	HN
